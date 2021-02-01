@@ -1,1 +1,2 @@
 #!/bin/bash
+echo -e "\"(\xc3\x940)'"
